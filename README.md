@@ -1,3 +1,3 @@
 # App
 
-Serves static files from `public/`
+Static files in `src/` are webpacked and served from `dist/`
