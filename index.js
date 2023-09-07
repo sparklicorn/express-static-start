@@ -8,5 +8,5 @@ const port = process.env.PORT || 3000;
 app.use(express.static('dist'));
 
 app.listen(port, host, () => {
-  console.log(`App serving static content on port ${port}`);
+  console.log(`App serving static content on port ${port}!`);
 });
